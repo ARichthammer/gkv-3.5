@@ -1,0 +1,100 @@
+ID,Alter,Geschlecht,Kinder,DMP,Zahnzusatz,Familienstand,DAUER_Kundenbeziehung,Region,Bundesland,Gebiet,Total_Beitraege,durchschn_Beitrag,Anzahl_Abrechnungen_letztes_Quartal,c_Allgemeinmediziner,c_Orthopaede,c_Zahn,c_Radiologe,c_HNO,c_Chirugie,c_stationaer,Beschwerden_letztes Jahr,Beschwerdekanal
+1,95,M,2,1,0,,3,Sueddeutschland,Saarland,Land,294.37,18.398125,16,ja,nein,nein,nein,ja,ja,nein,0,
+2,67,M,2,1,0,verheiratet,11,Norddeutschland,Nordrhein-Westfalen,Stadt,294.37,18.398125,16,ja,nein,nein,nein,ja,ja,nein,0,
+3,82,F,1,1,0,verheiratet,9,Norddeutschland,Nordrhein-Westfalen,Stadt,294.37,18.398125,16,ja,nein,nein,nein,ja,ja,nein,1,Call Center
+4,58,F,1,1,0,,8,Norddeutschland,Nordrhein-Westfalen,Stadt,78.93,26.31,3,ja,nein,nein,nein,nein,ja,nein,0,
+5,49,M,1,1,0,single,11,Sueddeutschland,Bayern,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,1,Brief
+6,81,M,2,1,1,single,3,Sueddeutschland,Rheinland-Pfalz,Stadt,179,179,1,nein,nein,nein,nein,ja,nein,nein,2,Brief
+7,48,F,0,1,0,single,5,Sueddeutschland,Sachsen,Stadt,179,179,1,nein,nein,nein,nein,ja,nein,nein,0,
+8,21,F,1,1,1,single,10,Norddeutschland,Niedersachsen,Stadt,179,179,1,nein,nein,nein,nein,ja,nein,nein,0,
+9,88,F,1,1,0,,10,Norddeutschland,Mecklenburg-Vorpommern,Stadt,525.26,21.0104,25,ja,nein,nein,ja,ja,nein,nein,0,
+10,48,M,2,1,0,verheiratet,11,Sueddeutschland,Saarland,Land,89,89,1,nein,nein,nein,nein,ja,nein,nein,0,
+11,87,F,0,1,1,verheiratet,11,Norddeutschland,Hamburg,Stadt,624.91,48.07,13,ja,ja,nein,nein,ja,nein,nein,0,
+12,72,M,0,1,1,verheiratet,3,Norddeutschland,Bremen,Land,624.91,48.07,13,ja,ja,nein,nein,ja,nein,nein,0,
+13,54,F,1,0,0,verheiratet,11,Norddeutschland,Niedersachsen,Stadt,299,299,1,nein,nein,nein,nein,ja,nein,nein,2,Call Center
+14,37,M,0,0,0,single,9,Norddeutschland,Berlin,Stadt,109,109,1,nein,nein,nein,nein,ja,nein,nein,0,
+15,58,F,2,0,0,verheiratet,3,Norddeutschland,Nordrhein-Westfalen,Stadt,94,94,1,nein,nein,nein,nein,ja,nein,nein,0,
+16,60,F,2,0,0,single,10,Norddeutschland,Berlin,Stadt,594.69,21.238929,28,ja,nein,ja,nein,ja,ja,nein,0,
+17,43,F,0,0,1,,3,Sueddeutschland,Saarland,Land,594.69,21.238929,28,ja,nein,ja,nein,ja,ja,nein,0,
+18,22,M,1,0,1,verheiratet,10,Norddeutschland,Schleswig-Holstein,Land,594.69,21.238929,28,ja,nein,ja,nein,ja,ja,nein,1,Brief
+19,55,F,0,0,1,,11,Norddeutschland,Berlin,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,1,E-Mail
+20,78,M,0,0,0,,3,Norddeutschland,Hamburg,Land,149,149,1,nein,nein,nein,nein,ja,nein,nein,0,
+21,74,M,1,0,0,,11,Norddeutschland,Mecklenburg-Vorpommern,Stadt,149,149,1,nein,nein,nein,nein,ja,nein,nein,1,Brief
+22,55,M,2,0,0,verheiratet,5,Sueddeutschland,Hessen,Stadt,149,149,1,nein,nein,nein,nein,ja,nein,nein,2,Call Center
+23,42,F,1,0,1,verheiratet,3,Sueddeutschland,Rheinland-Pfalz,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+24,30,F,2,0,0,single,10,Norddeutschland,Bremen,Land,279,279,1,nein,nein,nein,ja,nein,nein,nein,2,Call Center
+25,40,M,0,0,0,single,10,Norddeutschland,Bremen,Stadt,279,279,1,nein,nein,nein,ja,nein,nein,nein,1,Brief
+26,69,F,0,0,1,single,5,Norddeutschland,Mecklenburg-Vorpommern,Land,279,279,1,nein,nein,nein,ja,nein,nein,nein,1,E-Mail
+27,39,M,1,0,1,verheiratet,3,Norddeutschland,Brandenburg,Stadt,757,252.333333,3,nein,ja,nein,nein,ja,nein,nein,1,E-Mail
+28,82,F,1,0,0,verheiratet,11,Sueddeutschland,Saarland,Stadt,169.95,24.278571,7,ja,nein,nein,nein,ja,ja,nein,1,E-Mail
+29,74,F,1,0,0,single,10,Norddeutschland,Mecklenburg-Vorpommern,Stadt,608,304,2,nein,nein,nein,ja,nein,ja,nein,5,Call Center
+30,71,F,2,0,0,verheiratet,10,Norddeutschland,Niedersachsen,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,1,Call Center
+31,37,F,2,0,0,verheiratet,3,Norddeutschland,Mecklenburg-Vorpommern,Land,298.99,149.495,2,ja,nein,nein,nein,ja,nein,nein,2,Call Center
+32,86,F,0,0,1,,10,Sueddeutschland,Hessen,Land,298.99,149.495,2,ja,nein,nein,nein,ja,nein,nein,0,
+33,70,M,2,0,0,,11,Sueddeutschland,Thueringen,Stadt,298.99,149.495,2,ja,nein,nein,nein,ja,nein,nein,0,
+34,68,M,0,0,1,single,9,Norddeutschland,Nordrhein-Westfalen,Stadt,189,189,1,nein,ja,nein,nein,nein,nein,nein,1,Brief
+35,20,M,1,0,1,single,3,Sueddeutschland,Baden-Wuerttemberg,Stadt,189,189,1,nein,ja,nein,nein,nein,nein,nein,1,Brief
+36,92,F,2,0,0,,3,Sueddeutschland,Hessen,Stadt,189,189,1,nein,ja,nein,nein,nein,nein,nein,0,
+37,34,F,1,0,0,verheiratet,3,Sueddeutschland,Baden-Wuerttemberg,Land,249,249,1,nein,nein,nein,nein,nein,nein,ja,0,
+38,53,M,1,0,0,,8,Sueddeutschland,Bayern,Stadt,189,189,1,nein,ja,nein,nein,nein,nein,nein,0,
+39,94,M,1,0,0,,11,Sueddeutschland,Sachsen,Stadt,189,189,1,nein,ja,nein,nein,nein,nein,nein,1,Call Center
+40,32,M,0,0,1,verheiratet,3,Norddeutschland,Schleswig-Holstein,Stadt,189,189,1,nein,ja,nein,nein,nein,nein,nein,1,E-Mail
+41,77,F,0,0,0,,5,Sueddeutschland,Hessen,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+42,33,M,0,0,1,,6,Sueddeutschland,Thueringen,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,3,Call Center
+43,30,F,1,0,1,single,11,Norddeutschland,Hamburg,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,1,E-Mail
+44,18,M,2,0,1,single,6,Norddeutschland,Mecklenburg-Vorpommern,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+45,44,F,2,0,0,single,3,Sueddeutschland,Sachsen,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,1,Brief
+46,97,M,2,0,0,verheiratet,,Norddeutschland,Nordrhein-Westfalen,Land,119,119,1,nein,nein,nein,nein,ja,nein,nein,0,
+47,47,F,2,0,0,verheiratet,11,Norddeutschland,Nordrhein-Westfalen,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,3,Brief
+48,72,M,0,0,0,verheiratet,11,Sueddeutschland,Bayern,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+49,80,F,1,0,0,single,3,Norddeutschland,Brandenburg,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+50,65,M,1,0,1,,11,Sueddeutschland,Saarland,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,1,E-Mail
+51,25,F,2,0,0,,11,Sueddeutschland,Bayern,Stadt,179,179,1,nein,nein,nein,nein,ja,nein,nein,0,
+52,69,F,0,0,0,verheiratet,3,Norddeutschland,Hamburg,Stadt,179,179,1,nein,nein,nein,nein,ja,nein,nein,1,Brief
+53,79,F,1,0,0,,11,Sueddeutschland,Baden-Wuerttemberg,Land,179,179,1,nein,nein,nein,nein,ja,nein,nein,3,E-Mail
+54,73,F,0,0,0,,3,Sueddeutschland,Sachsen,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,3,Brief
+55,45,F,0,0,0,verheiratet,3,Norddeutschland,Hamburg,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,3,E-Mail
+56,84,M,0,0,1,verheiratet,5,Norddeutschland,Hamburg,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+57,41,M,0,0,1,verheiratet,5,Norddeutschland,Brandenburg,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+58,32,F,1,0,0,verheiratet,5,Sueddeutschland,Thueringen,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+59,97,M,0,0,0,verheiratet,3,Sueddeutschland,Thueringen,Stadt,149,149,1,nein,nein,nein,nein,ja,nein,nein,0,
+60,44,M,1,0,0,,11,Norddeutschland,Schleswig-Holstein,Stadt,450,450,1,nein,nein,nein,nein,ja,nein,nein,0,
+61,72,M,2,0,1,single,3,Sueddeutschland,Rheinland-Pfalz,Stadt,429.34,33.026154,13,ja,ja,ja,nein,ja,nein,nein,1,Brief
+62,22,M,1,0,1,verheiratet,11,Sueddeutschland,Thueringen,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,2,E-Mail
+63,80,F,1,0,0,,3,Norddeutschland,Berlin,Stadt,159,159,1,nein,nein,nein,nein,ja,nein,nein,0,
+64,61,F,1,0,1,verheiratet,10,Sueddeutschland,Thueringen,Stadt,179,179,1,nein,nein,nein,nein,ja,nein,nein,0,
+65,91,M,2,0,1,,2,Norddeutschland,Bremen,Stadt,179,179,1,nein,nein,nein,nein,ja,nein,nein,0,
+66,64,F,2,0,0,,11,Norddeutschland,Brandenburg,Stadt,179,179,1,nein,nein,nein,nein,ja,nein,nein,1,Brief
+67,39,F,1,0,0,,2,Sueddeutschland,Sachsen,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+68,26,M,2,0,0,,10,Sueddeutschland,Bayern,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+69,46,F,0,0,1,single,2,Sueddeutschland,Rheinland-Pfalz,Land,514.32,25.716,20,ja,nein,nein,ja,ja,ja,nein,0,
+70,79,F,2,0,0,single,6,Sueddeutschland,Baden-Wuerttemberg,Stadt,514.32,25.716,20,ja,nein,nein,ja,ja,ja,nein,0,
+71,88,F,2,0,0,,10,Sueddeutschland,Baden-Wuerttemberg,Stadt,514.32,25.716,20,ja,nein,nein,ja,ja,ja,nein,0,
+72,29,F,1,0,0,verheiratet,9,Sueddeutschland,Bayern,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+73,46,F,0,0,1,verheiratet,9,Norddeutschland,Brandenburg,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+74,88,F,0,0,0,verheiratet,9,Sueddeutschland,Sachsen-Anhalt,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+75,57,F,1,0,0,verheiratet,11,Sueddeutschland,Sachsen,Stadt,49,49,1,nein,nein,nein,nein,ja,nein,nein,0,
+76,86,M,1,0,0,verheiratet,11,Sueddeutschland,Saarland,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,4,Brief
+77,43,F,1,0,0,verheiratet,11,Sueddeutschland,Hessen,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,1,Call Center
+78,45,F,0,0,0,,9,Sueddeutschland,Baden-Wuerttemberg,Land,349,349,1,nein,nein,nein,nein,nein,nein,ja,0,
+79,82,M,0,0,0,verheiratet,5,Norddeutschland,Nordrhein-Westfalen,Stadt,349,349,1,nein,nein,nein,nein,nein,nein,ja,0,
+80,40,M,2,0,0,single,5,Norddeutschland,Nordrhein-Westfalen,Land,349,349,1,nein,nein,nein,nein,nein,nein,ja,1,Call Center
+81,36,F,1,0,0,single,11,Sueddeutschland,Sachsen-Anhalt,Land,154.98,77.49,2,ja,ja,nein,nein,nein,nein,nein,0,
+82,43,F,2,0,1,single,9,Sueddeutschland,Baden-Wuerttemberg,Stadt,349,349,1,nein,nein,nein,nein,ja,nein,nein,0,
+83,78,F,0,0,0,verheiratet,9,Sueddeutschland,Thueringen,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+84,42,F,0,0,0,single,11,Norddeutschland,Brandenburg,Stadt,89.94,44.97,2,ja,nein,ja,nein,nein,nein,nein,1,Call Center
+85,50,F,2,0,0,verheiratet,11,Sueddeutschland,Rheinland-Pfalz,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+86,89,M,0,0,0,verheiratet,11,Sueddeutschland,Baden-Wuerttemberg,Land,99.99,99.99,1,nein,ja,nein,nein,nein,nein,nein,1,Call Center
+87,73,F,2,0,0,,9,Sueddeutschland,Rheinland-Pfalz,Stadt,99.99,99.99,1,nein,ja,nein,nein,nein,nein,nein,0,
+88,63,M,2,0,0,,9,Sueddeutschland,Baden-Wuerttemberg,Stadt,99.99,99.99,1,nein,ja,nein,nein,nein,nein,nein,0,
+89,47,F,1,0,0,,11,Sueddeutschland,Sachsen,Stadt,54,54,1,nein,nein,nein,nein,ja,nein,nein,0,
+90,21,F,2,0,0,,9,Norddeutschland,Bremen,Stadt,54,54,1,nein,nein,nein,nein,ja,nein,nein,1,Brief
+91,29,F,2,0,0,,5,Sueddeutschland,Sachsen-Anhalt,Land,54,54,1,nein,nein,nein,nein,ja,nein,nein,0,
+92,70,F,0,0,0,single,10,Sueddeutschland,Baden-Wuerttemberg,Stadt,692.28,32.965714,21,ja,ja,nein,ja,ja,ja,nein,0,
+93,79,F,0,0,1,single,10,Norddeutschland,Bremen,Stadt,692.28,32.965714,21,ja,ja,nein,ja,ja,ja,nein,0,
+94,40,M,2,0,0,single,2,Norddeutschland,Hamburg,Land,692.28,32.965714,21,ja,ja,nein,ja,ja,ja,nein,0,
+95,68,M,2,1,1,single,11,Norddeutschland,Bremen,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+96,97,M,2,1,0,,10,Norddeutschland,Brandenburg,Stadt,0,0,0,nein,nein,nein,nein,nein,nein,nein,0,
+97,87,F,1,1,0,single,2,Norddeutschland,Niedersachsen,Land,0,0,0,nein,nein,nein,nein,nein,nein,nein,1,E-Mail
+98,42,M,0,1,0,,9,Sueddeutschland,Sachsen-Anhalt,Stadt,532.78,28.041053,19,ja,nein,nein,nein,ja,ja,nein,1,Brief
+99,67,M,0,1,0,single,11,Norddeutschland,Berlin,Stadt,193.99,96.995,2,nein,ja,nein,nein,ja,nein,nein,4,Call Center
